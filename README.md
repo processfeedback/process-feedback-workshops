@@ -23,7 +23,7 @@
 |          |           |  ✏️ &nbsp;  Practice and QnA |
 | 10:50 AM |    5 min  | 🖥️ Demo of [Create a Question]() and [Dashboard]() features |
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
-| 10:50 AM |    5 min  | [OPTIONAL] QnA |
+| 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
 ## Facilitator:
 * Badri Adhikari
