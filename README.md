@@ -3,7 +3,7 @@
 ### Time: 8-16-2023, 10 AM to 11 AM CST
 ### Location: Online
 
-## Overall agenda (CST Time)
+## Agenda
 
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
