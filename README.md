@@ -1,4 +1,4 @@
-# Workshop 8-16/2023
+# Workshop 8-16-2023
 
 ## Workshop title: 
 ## Overall agenda (CST Time)
