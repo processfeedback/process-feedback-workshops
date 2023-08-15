@@ -11,7 +11,7 @@
 |          |           | ✏️ &nbsp;  [Discussion board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
 | 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), Teacher at MICDS, St. Louis |
-| 10:15 AM |    5 min  | Discover the Build Editor tool |
+| 10:15 AM |    5 min  | Discover the **Build Editor** tool |
 |          |           |  🖥️ &nbsp;  Demo of Build Editor |
 |          |           |  ✏️ &nbsp;  Practice [Build an Editor](https://www.processfeedback.org/buildeditor) |
 | 10:25 AM |    5 min  | 🖥️ Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Associate Professor at Arkansas State University, Arkansas |
