@@ -14,6 +14,29 @@
 - [11:00] - [optional] QnA
 
 
+
+| ⌚ | ⏳  |  Topic |
+|:----------|:-------------|:------|
+| 10:00 AM |   10 min  |  📖 &nbsp; Introduction to Process Feedback and administrative details of the workshop |
+|          |           |  ✏️ &nbsp;  Quiz for obtaining a certificate |
+|          |           |  ✏️ &nbsp;  Discussion board |
+|  9:10 AM |   15 min  | 🖥️  &nbsp;  Demo: Google's [teachable machine](https://teachablemachine.withgoogle.com/) |
+|          |           | ✏️ &nbsp;    Task: Learn how to use teachable machine |
+|  9:25 AM |   25 min  | 📖 &nbsp;   [Logistics](./logistics.md), your day-long project, and [dataset options](./dataset-options.md) |
+|          |           | 📖 &nbsp;   [Introduction to (Multi-)Classification, evaluation, and baseline accuracy](https://docs.google.com/presentation/d/1KO8m8KUztqeQVkZCqBlXXq1NpNR9OQJLfoSQofcr17U/edit?usp=sharing) |
+|          |           | ✏️ &nbsp;    Score a 100% on quiz: [(multi-)classification, evaluation, and baseline accuracy](https://docs.google.com/forms/d/e/1FAIpQLSer0upR_0EZ0Mhg30mxGQ9wdXpT-4Icn5BxFYQr-Fj-Q7rKrw/viewform?usp=sf_link) |
+|  9:50 AM |   10 min  | 📖 &nbsp;   [An image is a two- or three-dimensional matrix](./an-image-is-simply-a-matrix.md) |
+|          |           | 🖥️  &nbsp;  Demo: [Reading images with Python (Tensorflow)](https://colab.research.google.com/drive/1iKqohQGUrNAR9EVi9h-hWQYTs_KMXSBE?usp=sharing) | 
+| 10:00 AM |   30 min  | ✏️ &nbsp;    Task: [Pick a dataset for your project and practice reading the images](./task-reading-images.md) |
+| 10:30 AM |   30 min  | 🖥️  &nbsp;  Demo: [Using Xception network to make a prediction](https://colab.research.google.com/drive/1QANBjREp_pBvIpXbrxZtebqy-pD0SIKS?usp=sharing) / [elephant.jpg](./elephant.jpg) |
+|          |           | ✏️ &nbsp;    Task: [Practice using Xception network, and decode predictions](./task-xception.md) |
+|          |           | ✏️ &nbsp;    Optional Task: What does the model predict for [Dwayne's picture](./dwayne.jpg)? Read: [why it fails!](https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/) |
+| 11:00 AM |   20 min  | 📖 &nbsp;   [Introduction to convolutional neural network (CNN)](https://docs.google.com/presentation/d/1HOCTqT-oJKRaQrcGpSXfKcItmdsHwlBw7_XbmV2ha6g/edit?usp=sharing) |
+|          |           | 🖥️  &nbsp;  Demo: [Build and train a basic CNN](https://colab.research.google.com/drive/1hj8x-R3Y2uBgDrSufkoGusL24pXDjP-S?usp=sharing) |
+| 11:20 AM |   40 min  | ✏️ &nbsp;    Task: [Build your CNN model and obtain a high accuracy](./task-cnn.md) |
+
+
+
 History
 [slide 1] My primary objective is not financial. - Why a company?
 [slide 2] Team information
