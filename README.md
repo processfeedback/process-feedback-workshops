@@ -72,6 +72,7 @@ Sections:
 * Nitesh Kafle - Take attendance
 * Rasik Nepal - Take attendance
 * Aayusha Singh - Quiz for certificate
+* Nirala Lamichhane - Quiz for certificate
 * Sameep Dhakal - Send certificates
 * Milan Adhikari - Review live comments
 
