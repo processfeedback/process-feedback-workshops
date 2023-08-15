@@ -21,7 +21,7 @@
 |          |           |  🖥️ &nbsp;  Demo of a [Writing Process Visualization Report](https://www.processfeedback.org/report/text_c2f19ef6-e272-4d38-b851-17cabde5a7aa?lang=en) |
 |          |           |  🖥️ &nbsp;  Demo of a [Coding Process Visualization Report](https://www.processfeedback.org/report/code_febb0b01-bb70-4533-8e5b-55004ce01450?lang=en) |
 |          |           |  ✏️ &nbsp;  Practice and QnA |
-| 10:50 AM |    5 min  | 🖥️ Demo of [Create a Question]() and [Dashboard]() features |
+| 10:50 AM |    5 min  | 🖥️ Demo of [Create a Question](https://www.processfeedback.org/uploadquestion) and [Dashboard](https://www.processfeedback.org/dashboard?FileId=question_2023-08-15-15-06_5651b989-5dda-48c2-b427-61df23227a42&DashboardAccessToken=2023-08-15-15-06_dea0c12a-8fb6-4d9f-9db4-7592bfe60e87) features |
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
