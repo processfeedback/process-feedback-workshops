@@ -14,11 +14,10 @@
 - [11:00] - [optional] QnA
 
 
-
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
 | 10:00 AM |   10 min  |  📖 &nbsp; Introduction to Process Feedback and administrative details of the workshop |
-|          |           |  ✏️ &nbsp;  Quiz for obtaining a certificate |
+|          |           |  ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
 |          |           |  ✏️ &nbsp;  Discussion board |
 |  9:10 AM |   15 min  | 🖥️  &nbsp;  Demo: Google's [teachable machine](https://teachablemachine.withgoogle.com/) |
 |          |           | ✏️ &nbsp;    Task: Learn how to use teachable machine |
