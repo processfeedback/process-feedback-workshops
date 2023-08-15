@@ -17,6 +17,7 @@
 History
 [slide 1] My primary objective is not financial. - Why a company?
 [slide 2] Team information
+video won't be available later 
 Current usage
 [slide 3] Laika's students put a lot of effort (sameep ji find)
 [slide 4] Nazire’s student clear case of using ChatGPT (sameep ji find)
