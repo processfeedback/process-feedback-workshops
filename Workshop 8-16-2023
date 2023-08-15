@@ -3,18 +3,6 @@ Responsibilities
 # Workshop 8-16/2023
 ## Workshop title: 
 ## Overall agenda (CST Time)
-- [10:00 AM] - Workshop starts
-- [10:00] - Introduction to Process Feedback and administrative details of the workshop
-- [10:10] - 
-- [10:15] - Demo and practice the [Build an Editor](https://www.processfeedback.org/buildeditor) tool
-- [10:25] - Presentation by Manu Bhandari, Associate Professor at Arkansas State University, Arkansas
-- [10:30] - Presentation by Mahesh Paudyal, Assistant Professor at Tribhuvan University, Nepal
-- [10:35] - Demo of the charts in a Process Visualization Report
-- [10:40] - Practice and QnA
-- [10:50] - Demo of Create a Question and Dashboard feature
-- [10:55] - Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis
-- [11:00] - [optional] QnA
-
 
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
@@ -25,18 +13,11 @@ Responsibilities
 | 10:15 AM |    5 min  | Discover the Build Editor tool |
 |          |           |  🖥️ &nbsp;  Demo of Build Editor |
 |          |           |  ✏️ &nbsp;  Practice [Build an Editor](https://www.processfeedback.org/buildeditor) |
-
-
-
-|          |           | 📖 &nbsp;   [Introduction to (Multi-)Classification, evaluation, and baseline accuracy](https://docs.google.com/presentation/d/1KO8m8KUztqeQVkZCqBlXXq1NpNR9OQJLfoSQofcr17U/edit?usp=sharing) |
-|          |           | ✏️ &nbsp;    Score a 100% on quiz: [(multi-)classification, evaluation, and baseline accuracy](https://docs.google.com/forms/d/e/1FAIpQLSer0upR_0EZ0Mhg30mxGQ9wdXpT-4Icn5BxFYQr-Fj-Q7rKrw/viewform?usp=sf_link) |
-|  9:50 AM |   10 min  | 📖 &nbsp;   [An image is a two- or three-dimensional matrix](./an-image-is-simply-a-matrix.md) |
-|          |           | 🖥️  &nbsp;  Demo: [Reading images with Python (Tensorflow)](https://colab.research.google.com/drive/1iKqohQGUrNAR9EVi9h-hWQYTs_KMXSBE?usp=sharing) | 
-| 10:00 AM |   30 min  | ✏️ &nbsp;    Task: [Pick a dataset for your project and practice reading the images](./task-reading-images.md) |
-| 10:30 AM |   30 min  | 🖥️  &nbsp;  Demo: [Using Xception network to make a prediction](https://colab.research.google.com/drive/1QANBjREp_pBvIpXbrxZtebqy-pD0SIKS?usp=sharing) / [elephant.jpg](./elephant.jpg) |
-|          |           | ✏️ &nbsp;    Task: [Practice using Xception network, and decode predictions](./task-xception.md) |
-|          |           | ✏️ &nbsp;    Optional Task: What does the model predict for [Dwayne's picture](./dwayne.jpg)? Read: [why it fails!](https://www.wired.com/story/researchers-blur-faces-launched-thousand-algorithms/) |
-| 11:00 AM |   20 min  | 📖 &nbsp;   [Introduction to convolutional neural network (CNN)](https://docs.google.com/presentation/d/1HOCTqT-oJKRaQrcGpSXfKcItmdsHwlBw7_XbmV2ha6g/edit?usp=sharing) |
-|          |           | 🖥️  &nbsp;  Demo: [Build and train a basic CNN](https://colab.research.google.com/drive/1hj8x-R3Y2uBgDrSufkoGusL24pXDjP-S?usp=sharing) |
-| 11:20 AM |   40 min  | ✏️ &nbsp;    Task: [Build your CNN model and obtain a high accuracy](./task-cnn.md) |
-
+| 10:25 AM |    5 min  | 🖥️ Presentation by Manu Bhandari, Associate Professor at Arkansas State University, Arkansas |
+| 10:30 AM |    5 min  | 🖥️ Presentation by Mahesh Paudyal, Assistant Professor at Tribhuvan University, Nepal |
+| 10:35 AM |   15 min  | Understanding a Process Visualization Report |
+|          |           |  🖥️ &nbsp;  Demo of the charts in a Process Visualization Report |
+|          |           |  ✏️ &nbsp;  Practice and QnA |
+| 10:50 AM |    5 min  | 🖥️ Demo of Create a Question and Dashboard feature |
+| 10:55 AM |    5 min  | 🖥️ Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis |
+| 10:50 AM |    5 min  | [OPTIONAL] QnA |
