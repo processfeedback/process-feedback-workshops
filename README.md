@@ -1,5 +1,5 @@
 # Workshop 8-16/2023
-
+## Workshop title: 
 ## Overall agenda (CST Time)
 - [10:00 AM] - Workshop starts
 - [10:00] - Introduction to Process Feedback and administrative details of the workshop
@@ -11,7 +11,6 @@
 - [10:40] - Practice and QnA
 - [10:50] - Demo of Create a Question and Dashboard feature
 - [10:55] - Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis
-
 
 
 History
@@ -29,8 +28,6 @@ Please write your testimonials
 If you are interested to become speakers in the upcoming workshops, please let us know
 If you know any journalists, please ask them to cover us
 upcoming workshop link
-
-
 
 [10 minutes] “Build an Editor” feature
 5 minutes of demo
