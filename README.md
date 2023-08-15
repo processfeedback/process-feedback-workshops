@@ -24,11 +24,11 @@
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
-## Facilitator:
+## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
 * Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
-
-## Co-facilitators:
+  
+## Co-facilitators
 * [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - Take attendance
 * [Rasik Nepal](https://www.linkedin.com/in/rasik-nepal-648559230/) - Take attendance
 * [Aayusha Singh](https://www.linkedin.com/in/aayusha-singh-479354280/) - Quiz for certificate
