@@ -26,7 +26,8 @@
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
 ## Facilitator:
-* Badri Adhikari
+* [Badri Adhikari](https://badriadhikari.github.io/)
+* Contact: `badri@processfeedback.org`
 
 ## Co-facilitators:
 * [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - Take attendance
