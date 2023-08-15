@@ -17,9 +17,10 @@
 | 10:25 AM |    5 min  | 🖥️ Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Associate Professor at Arkansas State University, Arkansas |
 | 10:30 AM |    5 min  | 🖥️ Presentation by [Mahesh Paudyal](https://www.linkedin.com/in/mahesh-paudyal-mahesh-kathmandu-9601a854/), Assistant Professor at Tribhuvan University, Nepal |
 | 10:35 AM |   15 min  | Understanding a **Process Visualization Report** |
-|          |           |  🖥️ &nbsp;  Demo of the charts in a Process Visualization Report |
+|          |           |  🖥️ &nbsp;  Demo of a [Writing Process Visualization Report](https://www.processfeedback.org/report/text_c2f19ef6-e272-4d38-b851-17cabde5a7aa?lang=en) |
+|          |           |  🖥️ &nbsp;  Demo of a [Coding Process Visualization Report](https://www.processfeedback.org/report/code_febb0b01-bb70-4533-8e5b-55004ce01450?lang=en) |
 |          |           |  ✏️ &nbsp;  Practice and QnA |
-| 10:50 AM |    5 min  | 🖥️ Demo of Create a Question and Dashboard feature |
+| 10:50 AM |    5 min  | 🖥️ Demo of [Create a Question]() and [Dashboard]() features |
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
 | 10:50 AM |    5 min  | [OPTIONAL] QnA |
 
