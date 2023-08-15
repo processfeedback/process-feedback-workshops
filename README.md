@@ -70,8 +70,9 @@ Sections:
 
 ## Co-facilitators:
 * Nitesh Kafle - Take attendance
-* Aayusha Singh - Take attendance
-* Sameep Dhakal - Track quiz responses and send certificates
+* Rasik Nepal - Take attendance
+* Aayusha Singh - Quiz for certificate
+* Sameep Dhakal - Send certificates
 * Milan Adhikari - Review live comments
 
 
