@@ -27,7 +27,7 @@
 
 ## Facilitator:
 * [Badri Adhikari](https://badriadhikari.github.io/)
-* Contact: `badri@processfeedback.org`
+* Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
 
 ## Co-facilitators:
 * [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - Take attendance
