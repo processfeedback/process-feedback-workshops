@@ -11,6 +11,7 @@
 - [10:40] - Practice and QnA
 - [10:50] - Demo of Create a Question and Dashboard feature
 - [10:55] - Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis
+- [11:00] - [optional] QnA
 
 
 History
