@@ -16,7 +16,7 @@
 |          |           |  ✏️ &nbsp;  Practice [Build an Editor](https://www.processfeedback.org/buildeditor) |
 | 10:25 AM |    5 min  | 🖥️ Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Associate Professor at Arkansas State University, Arkansas |
 | 10:30 AM |    5 min  | 🖥️ Presentation by [Mahesh Paudyal](https://www.linkedin.com/in/mahesh-paudyal-mahesh-kathmandu-9601a854/), Assistant Professor at Tribhuvan University, Nepal |
-| 10:35 AM |   15 min  | Understanding a Process Visualization Report |
+| 10:35 AM |   15 min  | Understanding a **Process Visualization Report** |
 |          |           |  🖥️ &nbsp;  Demo of the charts in a Process Visualization Report |
 |          |           |  ✏️ &nbsp;  Practice and QnA |
 | 10:50 AM |    5 min  | 🖥️ Demo of Create a Question and Dashboard feature |
