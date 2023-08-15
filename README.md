@@ -3,14 +3,14 @@
 ## Overall agenda (CST Time)
 - [10:00 AM] - Workshop starts
 - [10:00] - Introduction to Process Feedback and administrative details of the workshop
-- [10:10] - Presentation by Travis Menghini, Teacher at MICDS, St. Louis
+- [10:10] - Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), Teacher at MICDS, St. Louis
 - [10:15] - Demo and practice the [Build an Editor](https://www.processfeedback.org/buildeditor) tool
-- [10:25] - Presentation by Manu Bhandari, Associate Professor at Arkansas State University, Arkansas
-- [10:30] - Presentation by Mahesh Paudyal, Assistant Professor at Tribhuvan University, Nepal
+- [10:25] - Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Associate Professor at Arkansas State University, Arkansas
+- [10:30] - Presentation by [Mahesh Paudyal](https://www.linkedin.com/in/mahesh-paudyal-mahesh-kathmandu-9601a854/), Assistant Professor at Tribhuvan University, Nepal
 - [10:35] - Demo of the charts in a Process Visualization Report
 - [10:40] - Practice and QnA
 - [10:50] - Demo of Create a Question and Dashboard feature
-- [10:55] - Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis
+- [10:55] - Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis
 - [11:00] - [optional] QnA
 
 
