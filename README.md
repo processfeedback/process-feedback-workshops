@@ -1,6 +1,6 @@
 # Workshop 8-16-2023
 
-## Workshop title: 
+## Workshop title: Revive the Potential of Your Assignments
 ## Overall agenda (CST Time)
 
 | ⌚ | ⏳  |  Topic |
