@@ -1,10 +1,16 @@
 # Workshop 8-16/2023
 
-## Agenda
-* [CST: 10:00 AM] Introduction to Process Feedback and administrative details of the workshop
-* [CST: 10:05 AM] Presentation by Travis Menghini, MICDS
-* []
-
+## Overall agenda (CST Time)
+* [10:00 AM] - Workshop starts
+* [10:00] - Introduction to Process Feedback and administrative details of the workshop
+* [10:10] - Presentation by Travis Menghini, Teacher at MICDS, St. Louis
+* [10:15] - Demo and practice the [Build an Editor](https://www.processfeedback.org/buildeditor) tool
+* [10:25] - Presentation by Manu Bhandari, Associate Professor at Arkansas State University, Arkansas
+* [10:30] - Presentation by Mahesh Paudyal, Assistant Professor at Tribhuvan University, Nepal
+* [10:35] - Demo of the charts in a Process Visualization Report
+* [10:40] - Practice and QnA
+* [10:50] - Demo of Create a Question and Dashboard feature
+* [10:55] - Presentation by Shea Kerkhoff, Associate Professor at University of Missouri-St. Louis
 
 
 
