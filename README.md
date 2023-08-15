@@ -1,15 +1,15 @@
 # Workshop 8-16/2023
 
 ## Agenda
+* [CST: 10:00 AM] Introduction to Process Feedback and administrative details of the workshop
+* [CST: 10:05 AM] Presentation by Travis Menghini, MICDS
+* []
 
-Responsibilities
-Take attendance: Nitesh and Aayusha ji
-Track quiz responses and sent a certificate - Sameep ji
-Review the document where people write/comment - Milan ji
 
-[10 minutes] Introduction to Process Feedback and administrative details
+
+
 History
-[slide 1] My primary objective is not financial.
+[slide 1] My primary objective is not financial. - Why a company?
 [slide 2] Team information
 Current usage
 [slide 3] Laika's students put a lot of effort (sameep ji find)
@@ -24,7 +24,7 @@ If you are interested to become speakers in the upcoming workshops, please let u
 If you know any journalists, please ask them to cover us
 upcoming workshop link
 
-[5 minutes] Travis’s presentation
+
 
 [10 minutes] “Build an Editor” feature
 5 minutes of demo
@@ -59,7 +59,15 @@ Sections:
 - Create an interface
 - How will students use the tool
 - Dashboard access
-- Why a company?
+
+## Facilitator:
+* Badri Adhikari
+
+## Co-facilitators:
+* Nitesh Kafle - Take attendance
+* Aayusha Singh - Take attendance
+* Sameep Dhakal - Track quiz responses and send certificates
+* Milan Adhikari - Review live comments
 
 
 
