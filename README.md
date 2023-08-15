@@ -1,7 +1,6 @@
 # Workshop: Revive the Potential of Your Assignments
-
-### Time: 8-16-2023, 10 AM to 11 AM CST
-### Location: Online
+#### Time: 8-16-2023, 10 AM to 11 AM CST
+### #Location: Online
 
 ## Agenda
 
