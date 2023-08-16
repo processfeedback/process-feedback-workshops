@@ -40,6 +40,10 @@
 * ..
 * Dr. Sambriddhi Mainali, University of Missouri-St. Louis
 * ..
+* 
+
+## Some comments from the participants
+> Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
 
 ## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
