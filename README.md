@@ -23,6 +23,14 @@
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
+## Additional Logistics
+* We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
+* In the Discussion board document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
+* You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
+* We are looking for journalists to cover our work. If you know anyone please kindly help us connect to them. 
+* If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
+* You can do the quiz anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive a certificate. You can attempt as many times as needed.
+
 ## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
 * Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
