@@ -25,7 +25,7 @@
 
 ## Additional Logistics
 * We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
-* In the Discussion board document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
+* In the [Discussion board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
 * You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
 * We are looking for journalists to cover our work. If you know anyone please kindly help us connect to them. 
 * If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
