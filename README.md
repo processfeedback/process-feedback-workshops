@@ -9,18 +9,18 @@
 | 10:00 AM |   10 min  | Introduction to Process Feedback + Workshop Logistics |
 |          |           | ✏️ &nbsp;  [Discussion board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
-| 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), Teacher at MICDS, St. Louis |
+| 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), MICDS, St. Louis |
 | 10:15 AM |   10 min  | Discover the **Build Editor** tool |
 |          |           |  🖥️ &nbsp;  Demo of Build Editor |
 |          |           |  ✏️ &nbsp;  Practice [Build an Editor](https://www.processfeedback.org/buildeditor) |
-| 10:25 AM |    5 min  | 🖥️ Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Associate Professor at Arkansas State University, Arkansas |
-| 10:30 AM |    5 min  | 🖥️ Presentation by [Mahesh Paudyal](https://www.linkedin.com/in/mahesh-paudyal-mahesh-kathmandu-9601a854/), Assistant Professor at Tribhuvan University, Nepal |
+| 10:25 AM |    5 min  | 🖥️ Presentation by [Manu Bhandari](https://www.linkedin.com/in/manu-bhandari/), Arkansas State University, Arkansas |
+| 10:30 AM |    5 min  | 🖥️ Presentation by [Mahesh Paudyal](https://www.linkedin.com/in/mahesh-paudyal-mahesh-kathmandu-9601a854/), Tribhuvan University, Nepal |
 | 10:35 AM |   15 min  | Understanding a **Process Visualization Report** |
 |          |           |  🖥️ &nbsp;  Demo of a [Writing Process Visualization Report](https://www.processfeedback.org/report/text_c2f19ef6-e272-4d38-b851-17cabde5a7aa?lang=en) |
 |          |           |  🖥️ &nbsp;  Demo of a [Coding Process Visualization Report](https://www.processfeedback.org/report/code_febb0b01-bb70-4533-8e5b-55004ce01450?lang=en) |
 |          |           |  ✏️ &nbsp;  Practice and QnA |
 | 10:50 AM |    5 min  | 🖥️ Demo of [Create a Question](https://www.processfeedback.org/uploadquestion) and [Dashboard](https://www.processfeedback.org/dashboard?FileId=question_2023-08-15-15-06_5651b989-5dda-48c2-b427-61df23227a42&DashboardAccessToken=2023-08-15-15-06_dea0c12a-8fb6-4d9f-9db4-7592bfe60e87) features |
-| 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), Associate Professor at University of Missouri-St. Louis |
+| 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
 ## Additional Logistics
