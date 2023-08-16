@@ -2,7 +2,7 @@
 **Title:** Effort Visualization Tools for Process-aware Teaching & Learning  
 **Venue:** Online  
 **Date and Time:** Sep 20, 20233, 10 to 11 AM CST  
-**Registration:** [effort.eventbrite.com](effort.eventbrite.com)  
+**Registration:** [effort.eventbrite.com](effort.eventbrite.com)    
 **Registration deadline:** Sep 18, 2023  
 
 # Previous workshops
