@@ -7,7 +7,7 @@
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
 | 10:00 AM |   10 min  | [Introduction to Process Feedback](https://docs.google.com/presentation/d/10CRxYmiEw5lmzyGcmsqZv5GsQnNNY2MDqDJpkMLxfNw/edit?usp=sharing) + Workshop Logistics |
-|          |           | ✏️ &nbsp;  [Discussion board](./Discussion Board - Workshop 8_16.pdf) |
+|          |           | ✏️ &nbsp;  [Discussion board](./discussion_board_8_16_2023.pdf) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
 | 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), MICDS, St. Louis |
 | 10:15 AM |   10 min  | Discover the **Build Editor** tool |
@@ -25,7 +25,7 @@
 
 ## Additional Logistics
 * We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
-* In the [Discussion board](./Discussion Board - Workshop 8_16.pdf) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
+* In the [Discussion board](./discussion_board_8_16_2023.pdf) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
 * You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
 * We are looking for journalists to cover our work. If you know anyone please kindly help us connect to them. 
 * If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
