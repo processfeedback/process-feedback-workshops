@@ -1,7 +1,9 @@
 # Workshop: Revive the Potential of Your Assignments
 #### Time: 8-16-2023, 10 AM to 11 AM CST
 #### Location: Online 
-// | [Zoom](https://zoom.us/meeting/register/tJAvceihrT4vGdWPnbHva7Dy5vMtEhw9iZ-h) | Passcode: qgicgCK50
+<!-- 
+| [Zoom](https://zoom.us/meeting/register/tJAvceihrT4vGdWPnbHva7Dy5vMtEhw9iZ-h) | Passcode: qgicgCK50
+-->
 
 ## Agenda
 
