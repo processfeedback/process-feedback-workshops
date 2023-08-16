@@ -52,9 +52,9 @@
 * Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
   
 ## Co-facilitators
-* [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - Take attendance
-* [Rasik Nepal](https://www.linkedin.com/in/rasik-nepal-648559230/) - Take attendance
-* [Aayusha Singh](https://www.linkedin.com/in/aayusha-singh-479354280/) - Quiz for certificate
-* [Nirala Lamichhane](https://www.linkedin.com/in/nirala-lamichhane/) - Quiz for certificate
-* [Sameep Dhakal](https://www.linkedin.com/in/sameep-dhakal-082155154/) - Send certificates
-* [Milan Adhikari](https://www.linkedin.com/in/adhikarimilan/) - Review live comments
+* [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - (attendance)
+* [Rasik Nepal](https://www.linkedin.com/in/rasik-nepal-648559230/) - (attendance)
+* [Aayusha Singh](https://www.linkedin.com/in/aayusha-singh-479354280/) - (certificate)
+* [Nirala Lamichhane](https://www.linkedin.com/in/nirala-lamichhane/) - (slides)
+* [Sameep Dhakal](https://www.linkedin.com/in/sameep-dhakal-082155154/) - (certificates)
+* [Milan Adhikari](https://www.linkedin.com/in/adhikarimilan/) - (review live comments)
