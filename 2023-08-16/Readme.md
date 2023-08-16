@@ -47,6 +47,8 @@
 
 > I will use this tool for high school students of my school and let you know.
 
+> Thank you for a great workshop.
+
 ## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
 * Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
