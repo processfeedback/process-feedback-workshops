@@ -6,4 +6,4 @@
 **Registration deadline:** Sep 18, 2023
 
 # Previous workshops
-## 08/16/2023 - "[A Workshop to Revive the Potential of Your Assignments]()"
+## 08/16/2023 - "[A Workshop to Revive the Potential of Your Assignments](./Workshop_8-16-2023.md)"
