@@ -7,3 +7,5 @@
 
 # Previous workshops
 * 08/16/2023 - "[A Workshop to Revive the Potential of Your Assignments](./2023-08-16/)"
+   * 4 invited guest speakers   
+   * 30 participants from USA, Nepal, India, and Dominican Republic    
