@@ -29,7 +29,7 @@
 * You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
 * We are looking for journalists to cover our work. If you know anyone please kindly help us connect to them. 
 * If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
-* You can do the quiz anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive [a certificate](example-certificate.png). You can attempt as many times as needed. You are welcome to share your certificate on social media.
+* You can do the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive [a certificate](example-certificate.png). You can attempt as many times as needed. You are welcome to share your certificate on social media.
 * The [next workshop](https://effort.eventbrite.com) is on September 20th at the same time. We have revised the title of the workshop to "Effort Visualization Tools for Process-aware Teaching & Learning."
 
 ## Facilitator
