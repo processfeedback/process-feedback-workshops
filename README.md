@@ -7,7 +7,7 @@
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
 | 10:00 AM |   10 min  | Introduction to Process Feedback |
-|          |           | Administrative details of the workshop | 
+|          |           | Workshop logistics | 
 |          |           | ✏️ &nbsp;  [Discussion board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
 | 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), Teacher at MICDS, St. Louis |
