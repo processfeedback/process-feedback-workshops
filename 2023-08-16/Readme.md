@@ -26,7 +26,7 @@
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
-## Additional Logistics
+## Workshop Logistics
 * We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
 * In the [Discussion board](./discussion_board_8_16_2023.pdf) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
 * You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
@@ -34,6 +34,12 @@
 * If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
 * You can do the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive [a certificate](example-certificate.png). You can attempt as many times as needed. You are welcome to share your certificate on social media.
 * The [next workshop](https://effort.eventbrite.com) is on September 20th at the same time. We have revised the title of the workshop to "Effort Visualization Tools for Process-aware Teaching & Learning."
+
+## Participants
+* Dr. Manu Bhandari, Arkansas State University (Invited speaker)
+* ..
+* Dr. Sambriddhi Mainali, University of Missouri-St. Louis
+* ..
 
 ## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
