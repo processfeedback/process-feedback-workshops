@@ -37,9 +37,9 @@
 * The [next workshop](https://effort.eventbrite.com) is on September 20th at the same time. We have revised the title of the workshop to "Effort Visualization Tools for Process-aware Teaching & Learning."
 
 ## Participants
-* Dr. Manu Bhandari, Arkansas State University (Invited speaker)
+* Dr. Manu Bhandari, ... Department, Arkansas State University (Invited speaker)
 * ..
-* Dr. Sambriddhi Mainali, University of Missouri-St. Louis
+* Dr. Sambriddhi Mainali, Computer Science Department, University of Missouri-St. Louis
 * ..
 * 
 
