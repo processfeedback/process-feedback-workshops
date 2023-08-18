@@ -38,10 +38,32 @@
 
 ## Participants
 * Dr. Manu Bhandari, ... Department, Arkansas State University (Invited speaker)
-* ..
 * Dr. Sambriddhi Mainali, Computer Science Department, University of Missouri-St. Louis
-* ..
-* 
+* Travis Menghini
+* Aakash Pokharel
+* Usha Kulkarni
+* Shawna Climer
+* Monoj Giri
+* Madison W
+* Jesse Eickholt
+* Edward Mirielli
+* Olivia Biswas
+* Nazire Koc
+* George Witmer
+* Qin Sun
+* Shawn Higginbotham
+* Tular Girard
+* Marcy Leeds
+* Qiong Cheng
+* Arohi Mishra
+* Susan Bailey
+* A Nicholas
+* Jane Sims
+* Manju Khari
+* Juan Sato-Franco
+* Flor Cattizo
+* Mahesh Paudyal
+* Dawn Tolonen
 
 ## Some comments from the participants
 > Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
