@@ -42,17 +42,17 @@
 3. Travis Menghini, Mary Institute and St. Louis Country Day School, St. Louis
 
 ## Participants
-1. Dr. Sambriddhi Mainali, Computer Science Department, University of Missouri-St. Louis
-1. Aakash Pokharel, Chelsea International Academy, Nepal
-1. Usha Kulkarni, Mathematics, Computer Science and Engineering Technology Department, Elizabeth City State University, North Carolina
-1. Shawna Climer, Computer Science Department, University of Missouri-St. Louis
-1. Monoj Giri, Tribhuvan University, Nepal
-1. Madison Weicht, Computer Science Department, University of Missouri-St. Louis
-1. Jesse Eickholt, Computer Science Department, Central Michigan University, Michigan
-1. Edward Mirielli
-1. Olivia Biswas, Computer Science Department, University of Missouri-St. Louis
-1. Nazire Koc, Computer Science Department, University of Missouri-St. Louis
-1. George Witmer
+1. **Dr. Sambriddhi Mainali**, Computer Science Department, University of Missouri-St. Louis
+1. **Aakash Pokharel**, Chelsea International Academy, Nepal
+1. **Usha Kulkarni**, Mathematics, Computer Science and Engineering Technology Department, Elizabeth City State University, North Carolina
+1. **Shawna Climer**, Computer Science Department, University of Missouri-St. Louis
+1. **Monoj Giri**, Tribhuvan University, Nepal
+1. **Madison Weicht**, Computer Science Department, University of Missouri-St. Louis
+1. **Jesse Eickholt**, Computer Science Department, Central Michigan University, Michigan
+1. **Edward Mirielli**
+1. **Olivia Biswas**, Computer Science Department, University of Missouri-St. Louis
+1. **Nazire Koc**, Computer Science Department, University of Missouri-St. Louis
+1. **George Witmer**, 
 1. Qin Sun
 1. Shawn Higginbotham
 1. Tular Girard
