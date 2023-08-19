@@ -48,8 +48,8 @@
 1. **Shawna Climer**, Computer Science Department, University of Missouri-St. Louis
 1. **Monoj Giri**, Tribhuvan University, Nepal
 1. **Madison Weicht**, Computer Science Department, University of Missouri-St. Louis
-1. **Jesse Eickholt**, Computer Science Department, Central Michigan University, Michigan
-1. **Edward Mirielli**
+1. **Dr. Jesse Eickholt**, Computer Science Department, Central Michigan University, Michigan
+1. **Dr. Edward Mirielli**
 1. **Olivia Biswas**, Computer Science Department, University of Missouri-St. Louis
 1. **Nazire Koc**, Computer Science Department, University of Missouri-St. Louis
 1. **George Witmer**, 
