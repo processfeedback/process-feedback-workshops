@@ -27,7 +27,7 @@
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
-## Workshop Logistics
+## Workshop logistics
 * We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
 * In the [Discussion board](./discussion_board_8_16_2023.pdf) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
 * You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
@@ -36,34 +36,36 @@
 * You can do the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive [a certificate](example-certificate.png). You can attempt as many times as needed. You are welcome to share your certificate on social media.
 * The [next workshop](https://effort.eventbrite.com) is on September 20th at the same time. We have revised the title of the workshop to "Effort Visualization Tools for Process-aware Teaching & Learning."
 
+# Invited speakers
+1. Dr. Manu Bhandari, ... Department, Arkansas State University
+2. Dr. Mahesh Paudyal
+3. Travis Menghini
+
 ## Participants
-* Dr. Manu Bhandari, ... Department, Arkansas State University (Invited speaker)
-* Dr. Sambriddhi Mainali, Computer Science Department, University of Missouri-St. Louis
-* Travis Menghini
-* Aakash Pokharel
-* Usha Kulkarni
-* Shawna Climer
-* Monoj Giri
-* Madison W
-* Jesse Eickholt
-* Edward Mirielli
-* Olivia Biswas
-* Nazire Koc
-* George Witmer
-* Qin Sun
-* Shawn Higginbotham
-* Tular Girard
-* Marcy Leeds
-* Qiong Cheng
-* Arohi Mishra
-* Susan Bailey
-* A Nicholas
-* Jane Sims
-* Manju Khari
-* Juan Sato-Franco
-* Flor Cattizo
-* Mahesh Paudyal
-* Dawn Tolonen
+1. Dr. Sambriddhi Mainali, Computer Science Department, University of Missouri-St. Louis
+1. Aakash Pokharel
+1. Usha Kulkarni
+1. Shawna Climer
+1. Monoj Giri
+1. Madison W
+1. Jesse Eickholt
+1. Edward Mirielli
+1. Olivia Biswas
+1. Nazire Koc
+1. George Witmer
+1. Qin Sun
+1. Shawn Higginbotham
+1. Tular Girard
+1. Marcy Leeds
+1. Qiong Cheng
+1. Arohi Mishra
+1. Susan Bailey
+1. A Nicholas
+1. Jane Sims
+1. Manju Khari
+1. Juan Sato-Franco
+1. Flor Cattizo
+1. Dawn Tolonen
 
 ## Some comments from the participants
 > Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
