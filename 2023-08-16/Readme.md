@@ -61,7 +61,8 @@ We're excited to have you with us!
 1. **Dr. Edward Mirielli**
 1. **Olivia Biswas**, Computer Science Department, University of Missouri-St. Louis
 1. **Nazire Koc**, Computer Science Department, University of Missouri-St. Louis
-1. **George Witmer**, 
+1. **George Witmer**,
+1. Bishal Shrestha
 1. Qin Sun
 1. Shawn Higginbotham
 1. Tular Girard
@@ -75,6 +76,18 @@ We're excited to have you with us!
 1. Juan Sato-Franco
 1. Flor Cattizo
 1. Dawn Tolonen
+1. Tim eddy
+1. Victoria Maloy
+1. Derrick Leflore
+1. S Chattraji
+1. George Witmer
+1. Neelam Yadav
+1. Muxin Zhai
+1. Joaquin Palacios
+1. Dorothy Yuan
+1. Micheal Sharpe
+1. Lisa Kline
+1. Tulay Girard
 
 ## Participant Testimonials:
 > Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
