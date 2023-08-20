@@ -1,7 +1,9 @@
 # Workshop: Revive the Potential of Your Assignments
-* **Date:** 8-16-2023
-* **Time:** 10 AM to 11 AM CST 
-* **Location:** Online 
+
+<p align="center">
+<img src="workshop_header08_16_2023.png" alt="Header Photo">
+</p>
+
 <!-- 
 | [Zoom](https://zoom.us/meeting/register/tJAvceihrT4vGdWPnbHva7Dy5vMtEhw9iZ-h) | Passcode: qgicgCK50
 -->
@@ -27,19 +29,26 @@
 | 10:55 AM |    5 min  | 🖥️ Presentation by [Shea Kerkhoff](https://www.linkedin.com/in/mskerkhoff/), University of Missouri-St. Louis |
 | 11:00 AM |    5 min  | [OPTIONAL] QnA |
 
-## Workshop logistics
-* We will list your name publicly on our workshop page; please let us know if you do not want your name to be public.
-* In the [Discussion board](./discussion_board_8_16_2023.pdf) document, please write your questions, your testimonials, comments, feedback, or any ideas to improve our workshop for next time.
-* You can help us by returning as a speaker in our future workshops. Please let us know if you are willing to help us by becoming a speaker in the future.
-* We are looking for journalists to cover our work. If you know anyone please kindly help us connect to them. 
-* If you would like me to give a talk or do a workshop at your campus or department, I will be more than happy to do so. Please email me and we can chat further.
-* You can do the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) anytime during the workshop or after. There are 10 multiple-choice questions and you should score a 100% in order to receive [a certificate](example-certificate.png). You can attempt as many times as needed. You are welcome to share your certificate on social media.
-* The [next workshop](https://effort.eventbrite.com) is on September 20th at the same time. We have revised the title of the workshop to "Effort Visualization Tools for Process-aware Teaching & Learning."
+## Workshop Logistics
 
-# Invited speakers
-1. Dr. Manu Bhandari, Communication and Communication Studies Department, Arkansas State University
-2. Dr. Mahesh Paudyal, Tribhuvan University
-3. Travis Menghini, Mary Institute and St. Louis Country Day School, St. Louis
+Welcome to our workshop! Here's what you need to know:
+
+- **Public Name Listing:** We'll feature your name on our workshop page. If you prefer not to be listed, kindly let us know.
+- **Discussion Board:** Share your questions, testimonials, feedback, and ideas for improvement in our [Discussion Board](./discussion_board_8_16_2023.pdf).
+- **Future Speakers:** Interested in speaking at future workshops? Let us know if you'd like to contribute as a speaker.
+- **Journalist Outreach:** We're searching for journalists interested in covering our work. If you have connections, please help us connect with them.
+- **Custom Workshops:** If you'd like a workshop at your campus or department, I'd be thrilled to collaborate. Email me to discuss further.
+- **Quiz and Certificate:** Feel free to take the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) during or after the workshop. Achieve 100% to earn your [certificate](example-certificate.png). Share it on social media!
+- **Next Workshop:** Join us on September 20th for our next workshop, "**Effort Visualization Tools for Process-aware Teaching & Learning**," at the same time. [Register here](https://effort.eventbrite.com).
+
+We're excited to have you with us!
+
+# Invited Speakers
+<p align="center">
+<img src="speakers 08_16_2023.png" alt="Header Photo">
+</p>
+
+
 
 ## Participants
 1. **Dr. Sambriddhi Mainali**, Computer Science Department, University of Missouri-St. Louis
@@ -67,7 +76,7 @@
 1. Flor Cattizo
 1. Dawn Tolonen
 
-## Some comments from the participants
+## Participant Testimonials:
 > Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
 
 > I will use this tool for high school students of my school and let you know.
@@ -76,12 +85,12 @@
 
 ## Facilitator
 * [Badri Adhikari](https://badriadhikari.github.io/)
-* Contact: `badri@processfeedback.org` or `adhikarib@umsl.edu`
+ 📬Reach at: `badri@processfeedback.org` or `adhikarib@umsl.edu`
   
 ## Co-facilitators
 * [Nitesh Kafle](https://www.linkedin.com/in/niteshkafle/) - (attendance)
 * [Rasik Nepal](https://www.linkedin.com/in/rasik-nepal-648559230/) - (attendance)
 * [Aayusha Singh](https://www.linkedin.com/in/aayusha-singh-479354280/) - (certificate)
+* [Sameep Dhakal](https://www.linkedin.com/in/sameep-dhakal-082155154/) - (certificate)
 * [Nirala Lamichhane](https://www.linkedin.com/in/nirala-lamichhane/) - (slides)
-* [Sameep Dhakal](https://www.linkedin.com/in/sameep-dhakal-082155154/) - (certificates)
 * [Milan Adhikari](https://www.linkedin.com/in/adhikarimilan/) - (review live comments)
