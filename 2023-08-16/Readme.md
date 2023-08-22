@@ -58,36 +58,35 @@ We're excited to have you with us!
 1. **Monoj Giri**, Tribhuvan University, Nepal
 1. **Madison Weicht**, Computer Science Department, University of Missouri-St. Louis
 1. **Dr. Jesse Eickholt**, Computer Science Department, Central Michigan University, Michigan
-1. **Dr. Edward Mirielli**
+1. **Dr. Edward Mirielli**, 
 1. **Olivia Biswas**, Computer Science Department, University of Missouri-St. Louis
 1. **Nazire Koc**, Computer Science Department, University of Missouri-St. Louis
-1. **George Witmer**,
-1. Bishal Shrestha
-1. Qin Sun
-1. Shawn Higginbotham
-1. Tular Girard
-1. Marcy Leeds
-1. Qiong Cheng
-1. Arohi Mishra
-1. Susan Bailey
-1. A Nicholas
-1. Jane Sims
-1. Manju Khari
-1. Juan Sato-Franco
-1. Flor Cattizo
-1. Dawn Tolonen
-1. Tim eddy
-1. Victoria Maloy
-1. Derrick Leflore
-1. S Chattraji
-1. George Witmer
-1. Neelam Yadav
-1. Muxin Zhai
-1. Joaquin Palacios
-1. Dorothy Yuan
-1. Micheal Sharpe
-1. Lisa Kline
-1. Tulay Girard
+1. **George Witmer**, Professor of Practice, Lehigh University
+1. **Bishal Shrestha**, Tribhuvan University, Nepal
+1. **Qin Sun**, Department of Marketing, California State University Northridge 
+1. **Shawn Higginbotham**, Computer Science Department, Webster UNiversity
+1. **Tulay Girard**, Department of Marketing, Penn State Altoona
+1. **Marcy Leeds**, Public Health Faculty, Slippery Rock University
+1. **Qiong Cheng**, Computer Science Department, University of North Carolina at Charlotte
+1. **Susan Bailey**, Associate Director, Distance and Online Education, University of Iowa
+1. **Jane Sims**, The College of St.Scholastica
+1. **Manju Khari**, Jawaharlal Nehru University, India
+1. **Juan Sato-Franco**, Research Foundation CUNY - Hostos Community College
+1. **Dawn Tolonen**, Department of Management, Xavier University
+1. **Muxin Zhai**, Department of Finance and Economics, Texas State University
+1. **Joaquin Palacios**, Computer Science Department, University of Texas at Austin 
+1. **Micheal Sharpe**, Behavioral Sciences, York College, CUNY
+1. **Lisa Kline**, University of Minnesota
+1. **Shea Kirkhoff**, English Department, University of Missouri-St. Louis
+1. **Dorothy Yuan**,
+1. **Tim eddy**,
+1. **Arohi Mishra**, 
+1. **Victoria Maloy**
+1. **Derrick Leflore**
+1. **S Chattraji**
+1. **Neelam Yadav**
+1. **Flor Cattizo**,
+1. **A Nicholas**, 
 
 ## Participant Testimonials:
 > Thanks for this workshop on this new AI tool! I am doing a research on a ChatGPT and AI related topic on education and it is good to know you are developing this tool to address some issues we are facing.
