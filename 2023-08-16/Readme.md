@@ -77,7 +77,7 @@ We're excited to have you with us!
 1. **Joaquin Palacios**, Computer Science Department, University of Texas at Austin 
 1. **Micheal Sharpe**, Behavioral Sciences, York College, CUNY
 1. **Lisa Kline**, University of Minnesota
-1. **Shea Kirkhoff**, English Department, University of Missouri-St. Louis
+1. **Shea Kerkhoff**, English Department, University of Missouri-St. Louis
 1. **Dorothy Yuan**,
 1. **Tim eddy**,
 1. **Arohi Mishra**, 
