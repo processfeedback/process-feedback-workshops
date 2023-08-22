@@ -58,7 +58,7 @@ We're excited to have you with us!
 1. **Monoj Giri**, Tribhuvan University, Nepal
 1. **Madison Weicht**, Computer Science Department, University of Missouri-St. Louis
 1. **Dr. Jesse Eickholt**, Computer Science Department, Central Michigan University, Michigan
-1. **Dr. Edward Mirielli**, 
+1. **Dr. Edward Mirielli**, University of Missouri
 1. **Olivia Biswas**, Computer Science Department, University of Missouri-St. Louis
 1. **Nazire Koc**, Computer Science Department, University of Missouri-St. Louis
 1. **George Witmer**, Professor of Practice, Lehigh University
