@@ -37,7 +37,7 @@ In this dynamic one-hour workshop, we'll explore the crucial issue of excessive 
 
 ### **Registration**
 
-To secure your spot in this transformative workshop, please [click here](https://www.eventbrite.com/e/a-workshop-to-revive-the-potential-of-your-assignments-tickets-676155879437?aff=oddtdtcreator) and complete the registration process.
+To secure your spot in this transformative workshop, please [click here](https://effort.eventbrite.com/) and complete the registration process.
 
 ## 📝 Insights from Previous Workshop
 
