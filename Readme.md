@@ -50,7 +50,7 @@ Missed our previous workshop or want to revisit the valuable insights shared? Di
 
 ---
 
-For updates, announcements, and to join our community, follow us on[Linked In](https://www.linkedin.com/company/process-feedback/)
+For updates, announcements, and to join our community, follow us on [Linked In](https://www.linkedin.com/company/process-feedback/)
 
 Have questions or need more information? Feel free to [contact us](mailto:contact@processfeedback.org).
 
