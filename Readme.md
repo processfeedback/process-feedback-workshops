@@ -9,15 +9,15 @@ Welcome to the Process Feedback Workshops repository! This repository contains i
 # 📅 Upcoming Workshop
  
 <p align="center">
-  <img src="09-20-2023.png" alt="AI in Education Workshop">
+  <img src="10-18-2023.png" alt="AI in Education Workshop">
 </p>
 
 ### **Topic:** Discover Your Students' Writing or Coding Journey, Not Just Final Submissions  
-- **Date:** September 20, 2023 
+- **Date:** October 18, 2023 
 - **Time:** 10 to 11 AM CST  
 - **Duration:** 1 hour
 - **Location:** Online (Zoom link will be shared)
-- **Registration deadline:** Sep 18, 2023  
+- **Registration deadline:** October 16, 2023  
 
 ### **Workshop Overview**
 
@@ -34,6 +34,9 @@ In this hands-on one-hour workshop, we'll explore the crucial issue of excessive
 To secure your spot please [click here](https://effort.eventbrite.com/) and complete the registration process.
 
 # 📝 Previous Workshops
+
+## [Discover Your Students' Writing or Coding Journey, Not Just Final Submissions](./2023-09-20/)
+- **Date:** September 20, 2023 
 
 ## [A Workshop to Revive the Potential of Your Assignments](./2023-08-16/)
 - **Date:** August 16, 2023 
