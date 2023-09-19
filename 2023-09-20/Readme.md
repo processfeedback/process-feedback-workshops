@@ -12,7 +12,7 @@
 
 | ⌚ | ⏳  |  Topic |
 |:----------|:-------------|:------|
-| 10:00 AM |   10 min  | [Introduction to Process Feedback](slides_08_16_2023.pdf) + Workshop Logistics |
+| 10:00 AM |   10 min  | [Introduction to Process Feedback]([slides_08_16_2023.pdf](https://docs.google.com/presentation/d/10CRxYmiEw5lmzyGcmsqZv5GsQnNNY2MDqDJpkMLxfNw/edit?usp=sharing)) + Workshop Logistics |
 |          |           | ✏️ &nbsp;  [Discussion board](./discussion_board_8_16_2023.pdf) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
 | 10:10 AM |    5 min  | 🖥️  &nbsp;  Presentation by [Travis Menghini](https://www.linkedin.com/in/travismenghini/), MICDS, St. Louis |
