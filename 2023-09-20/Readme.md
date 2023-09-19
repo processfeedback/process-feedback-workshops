@@ -36,7 +36,7 @@ Welcome to our workshop! Here's what you need to know:
 - **Future Speakers:** Interested in speaking at future workshops? Let us know if you'd like to contribute as a speaker.
 - **Journalist Outreach:** We're searching for journalists interested in covering our work. If you have connections, please help us connect with them.
 - **Custom Workshops:** If you'd like a workshop at your campus or department, I'd be thrilled to collaborate. Email me to discuss further.
-- **Quiz and Certificate:** Feel free to take the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) during or after the workshop. Achieve 100% to earn your [certificate](example-certificate.png). Share it on social media!
+- **Quiz and Certificate:** Feel free to take the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) during or after the workshop. Achieve 100% to earn your [certificate](example-certifcate.png). Share it on social media!
 - **Next Workshop:** Join us on October 20th for our next workshop, "**Effort Visualization Tools for Process-aware Teaching & Learning**," at the same time. [Register here](https://effort.eventbrite.com).
 
 We're excited to have you with us!
