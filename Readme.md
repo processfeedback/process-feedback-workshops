@@ -35,10 +35,10 @@ To secure your spot please [click here](https://effort.eventbrite.com/) and comp
 
 # 📝 Previous Workshops
 
-## [Discover Your Students' Writing or Coding Journey, Not Just Final Submissions](./2023-09-20/)
+### [Discover Your Students' Writing or Coding Journey, Not Just Final Submissions](./2023-09-20/)
 - **Date:** September 20, 2023 
 
-## [A Workshop to Revive the Potential of Your Assignments](./2023-08-16/)
+### [A Workshop to Revive the Potential of Your Assignments](./2023-08-16/)
 - **Date:** August 16, 2023 
 - **4 invited guest speakers**   
 - **30 participants from the USA, Nepal, India, and the Dominican Republic**
