@@ -32,7 +32,7 @@
 Welcome to our workshop! Here's what you need to know:
 
 - **Public Name Listing:** We'll feature your name on our workshop page. If you prefer not to be listed, kindly let us know.
-- **Discussion Board:** Share your questions, testimonials, feedback, and ideas for improvement in our [Discussion Board](./discussion_board_8_16_2023.pdf).
+- **Discussion Board:** Share your questions, testimonials, feedback, and ideas for improvement in our [Discussion Board](./discussion_board_9_20_2023.pdf).
 - **Future Speakers:** Interested in speaking at future workshops? Let us know if you'd like to contribute as a speaker.
 - **Journalist Outreach:** We're searching for journalists interested in covering our work. If you have connections, please help us connect with them.
 - **Custom Workshops:** If you'd like a workshop at your campus or department, I'd be thrilled to collaborate. Email me to discuss further.
@@ -51,7 +51,7 @@ We're excited to have you with us!
 ## Participants
 
 
-## Participant Testimonials:
+## Participant Testimonials
 
 
 ## Facilitator
