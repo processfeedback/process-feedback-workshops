@@ -1,7 +1,7 @@
 # Workshop: Revive the Potential of Your Assignments
 
 <p align="center">
-<img src="workshop_header08_16_2023.png" alt="Header Photo">
+<img src="workshop_header09_20_2023.png" alt="Header Photo">
 </p>
 
 <!-- 
