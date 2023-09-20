@@ -49,11 +49,11 @@ We're excited to have you with us!
 
 
 ## Participants
-1. **Tulay Girard**, Department of Marketing, Penn State Altoona
+1. **Dr. Tulay Girard**, Department of Marketing, Penn State Altoona
 1. **Dr. Sambriddhi Mainali**, Computer Science Department, University of Missouri-St. Louis
 1. **Monoj Giri**, Tribhuvan University, Nepal
-1. **Bijaya Shrestha**, Missouri University of Science and Technology
-1. **Flor Carrizo** 
+1. **Dr. Bijaya Shrestha**, Missouri University of Science and Technology
+1. **María Florencia Carrizo**, Nores 
 
 ## Participant Testimonials
 > Thank you Badri ji and team for your work. This is an awesome tool to assure us, educators, that we are providing appropriate feedback to our students for their growth. Now I need to run for my class. Bye and have a good rest of the day/evening (depending upon which part of the world you are :D)
