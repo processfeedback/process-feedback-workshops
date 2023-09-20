@@ -32,7 +32,7 @@
 Welcome to our workshop! Here's what you need to know:
 
 - **Public Name Listing:** We'll feature your name on our workshop page. If you prefer not to be listed, kindly let us know.
-- **Discussion Board:** Post questions, testimonials, feedback, and ideas for improvement in our [Discussion Board]([./discussion_board_9_20_2023.pdf](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing)).
+- **Discussion Board:** Post questions, testimonials, feedback, and ideas for improvement in our [Discussion Board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing).
 - **Future Speakers:** Interested in speaking at future workshops? Let us know if you'd like to join as a speaker.
 - **Custom Workshops:** If you'd like a workshop at your campus or department, we will be thrilled to collaborate. Email us to discuss further.
 - **Quiz and Certificate:** Please take the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) during or after the workshop. You will need to achieve 100% to earn your [certificate](example-certifcate.png).
