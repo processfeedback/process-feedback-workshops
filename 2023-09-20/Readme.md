@@ -32,12 +32,12 @@
 Welcome to our workshop! Here's what you need to know:
 
 - **Public Name Listing:** We'll feature your name on our workshop page. If you prefer not to be listed, kindly let us know.
-- **Discussion Board:** Share your questions, testimonials, feedback, and ideas for improvement in our [Discussion Board](./discussion_board_9_20_2023.pdf).
+- **Discussion Board:** Share your questions, testimonials, feedback, and ideas for improvement in our [Discussion Board]([./discussion_board_9_20_2023.pdf](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing)).
 - **Future Speakers:** Interested in speaking at future workshops? Let us know if you'd like to contribute as a speaker.
 - **Journalist Outreach:** We're searching for journalists interested in covering our work. If you have connections, please help us connect with them.
 - **Custom Workshops:** If you'd like a workshop at your campus or department, I'd be thrilled to collaborate. Email me to discuss further.
 - **Quiz and Certificate:** Feel free to take the [quiz](https://forms.gle/54mPpkyVYFH5VgD1A) during or after the workshop. Achieve 100% to earn your [certificate](example-certifcate.png). Share it on social media!
-- **Next Workshop:** Join us on October 20th for our next workshop, "**Effort Visualization Tools for Process-aware Teaching & Learning**," at the same time. [Register here](https://effort.eventbrite.com).
+- **Next Workshop:** Join us on October 18th for our next workshop, "**Discover Your Students’ Writing or Coding Journey, Not Just Final Submissions**," at the same time. [Register here](https://effort.eventbrite.com).
 
 We're excited to have you with us!
 
