@@ -54,8 +54,6 @@ We're excited to have you with us!
 ## Participant Testimonials
 
 
-## Facilitator
-* [Badri Adhikari](https://badriadhikari.github.io/)
- 📬Reach at: `badri@processfeedback.org` or `adhikarib@umsl.edu`
-* [Milan Adhikari](https://milan-adhikari.github.io/)
- 📬Reach at: `reach.out.to.milan@gmail.com`
+## Facilitators
+* 📬 [Badri Adhikari](https://badriadhikari.github.io/) [`badri@processfeedback.org`]
+* 📬 [Milan Adhikari](https://milan-adhikari.github.io/) [`reach.out.to.milan@gmail.com`]
