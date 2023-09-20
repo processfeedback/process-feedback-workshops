@@ -15,7 +15,7 @@
 | 10:00 AM |   10 min  | [Introduction to Process Feedback](https://docs.google.com/presentation/d/10CRxYmiEw5lmzyGcmsqZv5GsQnNNY2MDqDJpkMLxfNw/edit?usp=sharing) + Workshop Logistics |
 |          |           | ✏️ &nbsp;  [Discussion board](https://docs.google.com/document/d/1n54-HtjYewJ_iYP-ZYGrfU16uPdaAuLqsSuhjyc3fAQ/edit?usp=sharing) |
 |          |           | ✏️ &nbsp;  [Quiz](https://forms.gle/54mPpkyVYFH5VgD1A) for obtaining a certificate |
-| 10:10 AM |    5 min  | 🖥️  &nbsp;  Approaches to integrate Process Feedback Editor into a course or other contexts |
+| 10:10 AM |    5 min  | 🖥️  &nbsp;  [Instructor's Guide](https://www.processfeedback.org/guide) |
 | 10:15 AM |   10 min  | Discover the **Create Editor** tool |
 |          |           |  🖥️ &nbsp;  Demo of Create Editor |
 |          |           |  ✏️ &nbsp;  Practice [Create an Editor](https://www.processfeedback.org/createeditor) |
