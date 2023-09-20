@@ -56,11 +56,11 @@ We're excited to have you with us!
 1. **María Florencia Carrizo**, Nores 
 
 ## Participant Testimonials
-> Thank you Badri ji and team for your work. This is an awesome tool to assure us, educators, that we are providing appropriate feedback to our students for their growth. Now I need to run for my class. Bye and have a good rest of the day/evening (depending upon which part of the world you are :D)
+> Thank you for your work. This is an awesome tool to assure us, educators, that we are providing appropriate feedback to our students for their growth.
 
-> Process Feedback seems to be a great tool in my view having heard your explanation - Excellent
+> Process Feedback seems to be a great tool in my view, having heard your explanation. Excellent!
 
-> Thank you for this very informative session
+> Thank you for this very informative session.
 
 ## Facilitators
 * 📬 [Badri Adhikari](https://badriadhikari.github.io/) [`badri@processfeedback.org`]
