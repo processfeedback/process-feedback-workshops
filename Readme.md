@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Process Feedback header.png" alt="AI in Education Workshop">
+  <img src="processfeedback-header.png" alt="AI in Education Workshop">
 </p>
 <br>
 
