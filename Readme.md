@@ -13,7 +13,7 @@ Welcome to the Process Feedback Workshops repository! This repository contains i
 </p>
 
 ### **Topic:** Discover Your Students' Writing or Coding Journey, Not Just Final Submissions  
-- **Date:** October 18, 2023 
+- **Date:** December 20, 2023 
 - **Time:** 10 to 11 AM CST  
 - **Duration:** 1 hour
 - **Location:** Online (Zoom link will be shared)
