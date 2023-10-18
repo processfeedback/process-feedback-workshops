@@ -17,7 +17,7 @@ Welcome to the Process Feedback Workshops repository! This repository contains i
 - **Time:** 10 to 11 AM CST  
 - **Duration:** 1 hour
 - **Location:** Online (Zoom link will be shared)
-- **Registration deadline:** October 16, 2023  
+- **Registration deadline:** December 18, 2023  
 
 ### **Workshop Overview**
 
